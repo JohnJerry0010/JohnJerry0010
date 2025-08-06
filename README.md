@@ -43,7 +43,7 @@ Using tools like Power BI, I transform raw datasets into executive dashboards an
 ## 📍 Let's Connect
 
 - 📧 Email: jerry7975460@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/johnjerry0010]([https://linkedin.com/in/johnjerry0010](https://www.linkedin.com/in/john-jerry/))  ))  
+- 💼 LinkedIn: [linkedin.com/in/john-jerry](https://www.linkedin.com/in/john-jerry/)
 - 📂 GitHub: [github.com/JohnJerry0010](https://github.com/JohnJerry0010)
 
 ---

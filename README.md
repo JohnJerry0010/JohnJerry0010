@@ -28,22 +28,14 @@ Using tools like Power BI, I transform raw datasets into executive dashboards an
 ## 💹 HeadStart – Financial Intelligence Platform  
 Deployed a full-stack financial analytics platform to forecast key metrics for 25+ companies. Integrated real-time dashboards via Power BI to support strategic planning and risk mitigation.
 
----
-
 ## 📑 Legal Document Intelligence System  
 Built a legal compliance tool using BERT for Named Entity Recognition and FLAN-T5 for summarization. Extracts legal entities and generates concise summaries to automate compliance workflows.
-
----
 
 ## 🎧 AI-Based Multimedia Content Moderation  
 Engineered a video content moderation system that transcribes speech using Whisper, detects toxic language using Toxic-BERT, and censors it by inserting beep sounds—ensuring safe, scalable content handling.
 
----
-
 ## 📊 Executive BI Dashboards – Wayne Enterprises  
 Designed five business dashboards (Finance, HR, Supply Chain, R&D, Security) and a newspaper-style narrative report. Used KPIs and forecasting to deliver executive-level insights answering *“What’s happening?”* and *“What’s next?”*.
-
----
 
 ## 🐞 CodeFix – Automated Bug Detection & Repair  
 Developed as part of the Intel Unnati Program, this system uses CodeBERT to detect bugs in code and DeepSeek to generate contextual fixes—boosting software quality and debugging efficiency.

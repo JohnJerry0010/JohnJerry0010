@@ -25,21 +25,30 @@ Using tools like Power BI, I transform raw datasets into executive dashboards an
 
 ## 🔬 Highlight Projects
 
-- **🛠️ CodeFix – Automated Bug Detection & Repair**  
-  Built using CodeBERT to detect bugs in code and provide suggestions with explanations. Includes GUI-based feedback and a classification model.
+## 💹 HeadStart – Financial Intelligence Platform  
+Deployed a full-stack financial analytics platform to forecast key metrics for 25+ companies. Integrated real-time dashboards via Power BI to support strategic planning and risk mitigation.
 
-- **📊 Wayne Enterprises BI Dashboards**  
-  Designed 5 Power BI dashboards (Finance, HR, Supply Chain, R&D, Security) and a newspaper-style data narrative report to deliver strategic insights.
+---
 
-- **🧾 Legal Document Classifier with LLMs**  
-  Classified legal texts into 25+ sections using transformer models and built a streamlined UI for document upload and case-specific predictions.
+## 📑 Legal Document Intelligence System  
+Built a legal compliance tool using BERT for Named Entity Recognition and FLAN-T5 for summarization. Extracts legal entities and generates concise summaries to automate compliance workflows.
 
-- **🎧 Whisper-Based Voice Note Summarizer**  
-  Leveraged OpenAI's Whisper to transcribe and summarize voice notes. Used LLM pipelines for accurate and concise output.
+---
 
-- **📈 Time Series Forecasting Models**  
-  Created ARIMA and Prophet-based forecasting systems for sales, logistics, and risk estimation with dashboards and alerts.
+## 🎧 AI-Based Multimedia Content Moderation  
+Engineered a video content moderation system that transcribes speech using Whisper, detects toxic language using Toxic-BERT, and censors it by inserting beep sounds—ensuring safe, scalable content handling.
 
+---
+
+## 📊 Executive BI Dashboards – Wayne Enterprises  
+Designed five business dashboards (Finance, HR, Supply Chain, R&D, Security) and a newspaper-style narrative report. Used KPIs and forecasting to deliver executive-level insights answering *“What’s happening?”* and *“What’s next?”*.
+
+---
+
+## 🐞 CodeFix – Automated Bug Detection & Repair  
+Developed as part of the Intel Unnati Program, this system uses CodeBERT to detect bugs in code and DeepSeek to generate contextual fixes—boosting software quality and debugging efficiency.
+
+---
 ## 📍 Let's Connect
 
 - 📧 Email: jerry7975460@gmail.com  
@@ -48,4 +57,4 @@ Using tools like Power BI, I transform raw datasets into executive dashboards an
 
 ---
 
-💡 *Always learning. Always building. Always curious.*
+💡 *Always learning, Always building, Always curious.*
